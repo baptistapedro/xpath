@@ -1,0 +1,5 @@
+project: xpath
+target: xpath
+cmds:
+  - cmd: /fuzz_xpathcompile
+    env: {}
